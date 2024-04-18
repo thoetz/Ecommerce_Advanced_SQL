@@ -111,7 +111,7 @@ SELECT
 	GROUP BY YEAR(created_at), WEEK(created_at);    
     
 -- based off our data we can see that toms change in strategy did result in a positive outcome for desktop]
-
+```
 
 ## Page Performance Analysis
 
@@ -172,7 +172,7 @@ LEFT JOIN website_pageviews
 ON website_pageviews.website_pageview_id = first_pv_per_session.first_pv
 GROUP BY pageview_url
 ORDER BY sessions_on_landing_page DESC;
-
+```
 
 ## Bounce Rate Analysis
 
@@ -273,7 +273,7 @@ SELECT
         AND pageview_url = '/'
     ) AS home_page_bounce_rate;
 
-
+```
 ## AB Testing
 
 ```sql
@@ -334,7 +334,7 @@ SELECT
     ) AS new_page_orders;
 -- The data shows that the new homepage did not perform well in terms of conversion
 
-
+```
 ## Conversion Funnel Analysis
 
 ```sql
@@ -374,6 +374,7 @@ SELECT
 FROM funnel_events
 GROUP BY 1, 2;
 
+```
 
 ## Conclusion
 

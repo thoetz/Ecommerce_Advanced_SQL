@@ -27,7 +27,7 @@ During the course, I played the role of a data analyst for Maven Fuzzy Factory, 
 - **Assignments**: Includes projects and exercises completed during the course, demonstrating practical application of SQL concepts.
 - **Documentation**: Provides detailed explanations and documentation for key SQL functions, techniques, and best practices utilized in the project.
 
-# SQL Programming Concepts and Techniques
+# Demonstrated SQL Programming Concepts and Techniques
 
 1. **SELECT statements**: Used to retrieve data from the database tables.
 2. **YEAR() and MONTH() functions**: Extract year and month components from dates.

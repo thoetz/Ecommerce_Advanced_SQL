@@ -3,7 +3,7 @@ Working through the Maven Analytics Advanced SQL course projects and assignments
 
 During the course, I played the role of a data analyst for Maven Fuzzy Factory, an eCommerce start-up. In this repository, I showcase my proficiency and fluency in SQL by applying various tools and techniques learned throughout the course to real-world projects. I've collaborated directly with the CEO, Marketing Director, and Website Manager to analyze performance and drive business growth using advanced SQL analytics. Throughout the course, I utilized MySQL alongside MySQL Workbench to execute queries and perform comprehensive analyses.
 
-## Summary
+## Summary of Concepts
 
 ### Traffic Analysis & Optimization
 - Analyzing website traffic sources, and performance metrics, and optimizing budgets through SQL queries to enhance traffic conversion rates.

@@ -1,4 +1,4 @@
-# Monthly Trends Analysis Summary
+# Mid Course Project Summary
 
 ## Objective
 The objective of this analysis is to assess the monthly trends in website sessions and orders, focusing primarily on Gsearch as the source. The analysis aims to provide insights into the performance of Gsearch sessions and orders over time, as well as to explore specific segments within Gsearch traffic, such as nonbrand and brand campaigns, and device types. Additionally, the analysis examines the contribution of Gsearch traffic compared to other channels and evaluates the impact of website performance improvements and landing page tests on conversion rates and revenue.
